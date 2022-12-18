@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "bluetooth": "*"
+        "bluetooth": "*",
+        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.1"
     },
     "files": [
         "main.blocks",
